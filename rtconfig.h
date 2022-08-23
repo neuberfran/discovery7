@@ -199,6 +199,20 @@
 
 /* tools packages */
 
+#define PKG_USING_EASYLOGGER
+
+/* EasyLogger Options */
+
+#define PKG_EASYLOGGER_ENABLE_OUTPUT
+#define PKG_EASYLOGGER_OUTPUT_LVL_VERBOSE
+#define PKG_EASYLOGGER_ENABLE_ASSERT
+#define PKG_EASYLOGGER_LINE_BUF_SIZE 256
+#define PKG_EASYLOGGER_FILTER_TAG_MAX_LEN 30
+#define PKG_EASYLOGGER_FILTER_KW_MAX_LEN 16
+#define PKG_EASYLOGGER_NEWLINE_SIGN_CRLF
+#define PKG_EASYLOGGER_ENABLE_COLOR
+/* end of EasyLogger Options */
+#define PKG_USING_EASYLOGGER_V200
 /* end of tools packages */
 
 /* system packages */
