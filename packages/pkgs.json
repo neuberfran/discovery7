@@ -1,0 +1,47 @@
+[
+ {
+  "path": "/packages/multimedia/LVGL/LVGL", 
+  "ver": "v8.3.1", 
+  "name": "LVGL"
+ }, 
+ {
+  "path": "/packages/multimedia/LVGL/lv_music_demo", 
+  "ver": "v0.3.1", 
+  "name": "LV_MUSIC_DEMO"
+ }, 
+ {
+  "path": "/packages/multimedia/LVGL/gui_guider_demo", 
+  "ver": "latest", 
+  "name": "GUI_GUIDER_DEMO"
+ }, 
+ {
+  "path": "/packages/tools/EasyFlash", 
+  "ver": "v4.1.0", 
+  "name": "EASYFLASH"
+ }, 
+ {
+  "path": "/packages/tools/EasyLogger", 
+  "ver": "v2.0.0", 
+  "name": "EASYLOGGER"
+ }, 
+ {
+  "path": "/packages/system/RTduino", 
+  "ver": "latest", 
+  "name": "RTDUINO"
+ }, 
+ {
+  "path": "/packages/system/perf_counter", 
+  "ver": "latest", 
+  "name": "PERF_COUNTER"
+ }, 
+ {
+  "path": "/packages/peripherals/i2c-tools", 
+  "ver": "latest", 
+  "name": "I2C_TOOLS"
+ }, 
+ {
+  "path": "/packages/peripherals/touch/ft6236", 
+  "ver": "latest", 
+  "name": "FT6236"
+ }
+]
